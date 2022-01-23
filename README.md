@@ -6,7 +6,7 @@
 <a href="https://www.buymeacoffee.com/apoorvtyagi"><img align="center" alt="Buy me a Coffee" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/buymeacoffee.svg" /></a>
 </p> -->
 
-<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=kaveesha31&label=Profile%20views&color=0e75b6&style=flat"
+<p align="center"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=kaveesha31&label=Profile%20views&color=0e75b6&style=flat"
     alt="adam-pw" /> 
   </p>
 
