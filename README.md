@@ -12,3 +12,14 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=kaveesha31&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Kaveesha's Github Stats">
 </div>
 
+  
+[![Kaveesha's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kaveesha31&theme=tokyonight)](https://git.io/praveenscience)
+
+| ![Kaveesha's github stats](https://github-readme-stats.vercel.app/api?username=kaveesha31&show_icons=true&theme=tokyonight) | ![Kaveesha GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aditya664&theme=tokyonight) |
+| --- | --- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaveesha31&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=kaveesha31&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
+
+  
+
